@@ -1,6 +1,6 @@
 const getAlamat = (alamat, propertyChoose, value) => {
     const arrData = []
-    alamat.map((item,index) => {
+    alamat.map((item) => {
         if(item[propertyChoose] === value) {
             arrData.push(item)
         }
