@@ -9,7 +9,7 @@ dotenv.config()
 
 const app = express()
 
-// app.use(json())
+app.use(json())
 app.use(urlencoded({extended:true}))
 app.use(morgan('dev'))
 
