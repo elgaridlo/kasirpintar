@@ -1,7 +1,7 @@
 {
   "name": "kasirpintar",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test yang diberikan oleh kasir pintar",
   "main": "app.js",
   "scripts": {
     "test": "jest",
@@ -9,7 +9,7 @@
     "start": "node app"
   },
   "keywords": [],
-  "author": "",
+  "author": "Elga Ridlo Sinatriya",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
